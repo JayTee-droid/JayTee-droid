@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm JayTee-droid! 👋
 
-<!--
-**JayTee-droid/JayTee-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer-in-training currently working with a tutor to build a strong foundation in web technologies and **Freedom Tech**.
 
-Here are some ideas to get you started:
+### 💻 Current Technical Path
+- **Foundations:** Successfully learned **HTML** and **CSS**.
+- **In Progress:** Currently studying **JavaScript** fundamentals under structured guidance.
+- **Tools:** Learning to manage projects using **Git and GitHub**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Bitcoin & Open Source Interests
+Alongside my coding lessons, I am exploring the Bitcoin ecosystem through:
+- The [Bitcoin Whitepaper](https://bitcoin.org) for the core theory.
+- Educational resources like [3Blue1Brown](https://youtube.com) for the technical logic.
+- Learning about the [Lightning Network](https://lightning.network) and [Nostr](https://nostr.com).
+
+### 🎯 My Goal
+To apply my growing development skills to open-source projects that promote privacy and financial freedom.
+
